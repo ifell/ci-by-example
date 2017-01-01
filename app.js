@@ -2,6 +2,8 @@
 
 //hello travis!
 
+a horrible syntax error!
+
 var http = require('http');
 var app = http.createServer(handler);
 
